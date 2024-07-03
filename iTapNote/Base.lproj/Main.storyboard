@@ -28,6 +28,7 @@
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="filled" title="C">
                                                     <fontDescription key="titleFontDescription" type="system" weight="light" pointSize="40"/>
+                                                    <color key="baseForegroundColor" systemColor="systemGray6Color"/>
                                                     <color key="baseBackgroundColor" systemColor="systemRedColor"/>
                                                 </buttonConfiguration>
                                                 <connections>
@@ -51,6 +52,7 @@
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="filled" title="D">
                                                     <fontDescription key="titleFontDescription" type="system" weight="light" pointSize="40"/>
+                                                    <color key="baseForegroundColor" systemColor="systemGray6Color"/>
                                                     <color key="baseBackgroundColor" systemColor="systemOrangeColor"/>
                                                 </buttonConfiguration>
                                                 <connections>
@@ -74,6 +76,7 @@
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="filled" title="E">
                                                     <fontDescription key="titleFontDescription" type="system" weight="light" pointSize="40"/>
+                                                    <color key="baseForegroundColor" systemColor="systemGray6Color"/>
                                                     <color key="baseBackgroundColor" systemColor="systemYellowColor"/>
                                                 </buttonConfiguration>
                                                 <connections>
@@ -97,6 +100,7 @@
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="filled" title="F">
                                                     <fontDescription key="titleFontDescription" type="system" weight="light" pointSize="40"/>
+                                                    <color key="baseForegroundColor" systemColor="systemGray6Color"/>
                                                     <color key="baseBackgroundColor" systemColor="systemGreenColor"/>
                                                 </buttonConfiguration>
                                                 <connections>
@@ -120,6 +124,7 @@
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="filled" title="G">
                                                     <fontDescription key="titleFontDescription" type="system" weight="light" pointSize="40"/>
+                                                    <color key="baseForegroundColor" systemColor="systemGray6Color"/>
                                                     <color key="baseBackgroundColor" systemColor="systemIndigoColor"/>
                                                 </buttonConfiguration>
                                                 <connections>
@@ -143,6 +148,7 @@
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="filled" title="A">
                                                     <fontDescription key="titleFontDescription" type="system" weight="light" pointSize="40"/>
+                                                    <color key="baseForegroundColor" systemColor="systemGray6Color"/>
                                                     <color key="baseBackgroundColor" systemColor="tableCellBlueTextColor"/>
                                                 </buttonConfiguration>
                                                 <connections>
@@ -166,6 +172,7 @@
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="filled" title="B">
                                                     <fontDescription key="titleFontDescription" type="system" weight="light" pointSize="40"/>
+                                                    <color key="baseForegroundColor" systemColor="systemGray6Color"/>
                                                     <color key="baseBackgroundColor" systemColor="systemPurpleColor"/>
                                                 </buttonConfiguration>
                                                 <connections>
