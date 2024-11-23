@@ -3,6 +3,9 @@
 
 Welcome to **iTapNote**, a simple yet fun app designed for playing musical notes by tapping on buttons.
 
+## 🖼️ Screenshots
+![Screenshot 1](Simulator%20Screenshot%20-%200.png)
+
 ## 📱 What the App Can Do:
    **Play Musical Notes**:
    - Tap any button to hear a unique note sound.
@@ -13,6 +16,4 @@ Welcome to **iTapNote**, a simple yet fun app designed for playing musical notes
 - **Dynamic UI Feedback**: Provides a smooth dimming effect to indicate interaction.
 - **Swift-Powered**: Built entirely with Swift and UIKit for optimal performance.
 
-## 🖼️ Screenshots
 
-![Screenshot 1](Simulator%20Screenshot%20-%200.png)
